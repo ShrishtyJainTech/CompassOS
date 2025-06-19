@@ -32,6 +32,20 @@ header {
   margin-bottom: 3rem;
 }
 
+.about {
+  max-width: 750px;
+  margin: 3rem auto;
+  padding-top: 2rem;
+  border-top: 1px solid #ddd;
+}
+.about p {
+  margin-bottom: 1rem;
+}
+.about h2 {
+  text-align: center;
+  color: #444;
+}
+
 .mantra {
   font-style: italic;
   color: #666;
