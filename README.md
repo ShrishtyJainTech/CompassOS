@@ -20,13 +20,12 @@ CompassOS is:
 
 ## 🚀 Live Demo
 
-[https://yourusername.github.io/CompassOS](#)
+[https://shrishtyjaintech.github.io/CompassOS/](#)
 
 ## 🛠️ Tech Stack
 
 - HTML5 + CSS3
 - Hosted on GitHub Pages
-- Markdown-to-HTML conversion (manual for now)
 
 ## 📝 Journaling Flow
 
